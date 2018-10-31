@@ -1,0 +1,23 @@
+{
+    "interval": 500,
+    "token": "RjyYgLPmG62VZti88rh66ZnoumiUUBgtpQusp2RBmoa",
+    "line_url": "https://notify-api.line.me/api/notify",
+    "base_gogo_url": "https://fx-on.com/systemtrade/detail/?id=",
+    "search_string": "実績を更新中です。",
+    "ea_id_list": [
+        ["", 14985],
+        ["インスタ", 14330],
+        ["百花繚乱", 13778],
+        ["", 13232],
+        ["Revo", 9818],
+        ["ED", 8000],
+        ["", 13193],
+        ["w_mix", 13523],
+        ["猫クリスマス", 13084],
+        ["WhietBear", 6076],
+        ["", 12618],
+        ["", 12344],
+        ["猫SCAL", 11838],
+        ["DELTA", 14352]
+    ]
+}
